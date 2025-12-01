@@ -1,0 +1,1 @@
+I need a one-page application without backend that shows me a visually attractive timer that counts down until midnight at December 24th. Make it simple HTML and Javascript.
